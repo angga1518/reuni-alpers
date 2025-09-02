@@ -20,11 +20,11 @@ export default function AlpersReunionPage() {
       return
     }
 
-    const message = `Halo, saya ingin mendaftar untuk Reuni Akbar ALPERS: \n\n
+    const message = `Halo, saya ingin mendaftar untuk Reuni Akbar ALPERS:
 
-Nama: ${formData.nama} \n
-Angkatan: ${formData.angkatan} \n
-Ukuran Baju: ${formData.ukuranBaju} \n\n
+Nama: ${formData.nama}
+Angkatan: ${formData.angkatan}
+Ukuran Baju: ${formData.ukuranBaju}
 
 Mohon informasi lebih lanjut untuk proses pendaftaran. Terima kasih!`
 
